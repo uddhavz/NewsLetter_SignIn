@@ -1,0 +1,24 @@
+{
+  "name": "newsletter_signin",
+  "version": "1.0.0",
+  "description": "Project based on API calls using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uddhavz/NewsLetter_SignIn.git"
+  },
+  "author": "UddhavZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uddhavz/NewsLetter_SignIn/issues"
+  },
+  "homepage": "https://github.com/uddhavz/NewsLetter_SignIn#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
